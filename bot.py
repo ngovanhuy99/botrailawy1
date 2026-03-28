@@ -10,7 +10,7 @@ import pytz
 BOT_TOKEN = "8357910547:AAHNeg3UdcWnEQvp0U6LCjwsZ668hWOTLlQ"
 ADMIN_ID = 7071414779
 DATA_FILE = "data.json"
-API_URL = "apisunbantung-production.up.railway.app" 
+API_URL = "https://apisunbantung-production.up.railway.app" 
 QR_IMAGE = ""
 
 # ====== HÀM QUẢN LÝ DỮ LIỆU ======
